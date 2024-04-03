@@ -1,6 +1,6 @@
 Read me file uses markdown syntax to edit any text, formulas or codes.
 
-# Welcome to my repository ![nature-spring](https://github.com/cerkasova/Wth/assets/165931863/51071e56-65e6-4940-8134-82422d3eecff)
+# Welcome to my repository!!! ![nature-spring](https://github.com/cerkasova/Wth/assets/165931863/51071e56-65e6-4940-8134-82422d3eecff)
 
 ## My skills 👌 ![ClipWindowsGIF](https://github.com/cerkasova/Wth/assets/165931863/4f803cdc-9a58-4838-8563-464d1cc63fac)
 
@@ -16,7 +16,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
  
 ### My favourite code 😍
 
-\\java
+'''java
     
     public class Main {
       public static void main(String[] args) {
@@ -39,7 +39,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
         }
       }
     }
-    \\
+    '''
 
 ![ThumbsUpEmojiGIF](https://github.com/cerkasova/Wth/assets/165931863/8b1bb774-5fe0-4783-addf-bb8e626fd2c7)
 
