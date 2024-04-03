@@ -16,7 +16,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
  
 ### My favourite code 😍
 
-\\\java
+''java
     
     public class Main {
       public static void main(String[] args) {
@@ -39,7 +39,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
         }
       }
     }
-    \\\
+   ''
 
 ![ThumbsUpEmojiGIF](https://github.com/cerkasova/Wth/assets/165931863/8b1bb774-5fe0-4783-addf-bb8e626fd2c7)
 
